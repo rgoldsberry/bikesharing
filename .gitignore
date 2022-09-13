@@ -5,6 +5,7 @@ config.js
 # citibike files
 201908-citibike-tripdata.csv
 201908-citibike-tripdata.csv.zip
+NYC_Citibike_Challenge_Data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
